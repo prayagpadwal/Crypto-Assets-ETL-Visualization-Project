@@ -35,6 +35,7 @@ The PostgreSQL database schema includes:
 - `crypto_assets`: Contains crypto asset details (ID, Name, Symbol).
 - `price_data`: Contains historical price data (Timestamp, Open/Close Prices, Volume).
 - `technical_indicators`: Computed metrics like volatility, moving averages, Bollinger bands, and more.
+![drawio](https://github.com/user-attachments/assets/f27419f7-88a6-4d59-89cb-c49dcb71b8ff)
 
 ## Visualization Tool
 Apache Superset is used for interactive data exploration and visualization, allowing intuitive insights into market trends and asset performance.
