@@ -9,6 +9,9 @@
 ## Overview
 This project implements an end-to-end Extract, Transform, Load (ETL) pipeline designed for crypto asset data. It leverages Python for data extraction from various sources, PostgreSQL for storage, Apache Superset for visualization, and includes robust data modeling with technical indicators.
 
+![diagram](https://github.com/user-attachments/assets/1d8d66dc-82f7-49f3-b4b2-0424bc1172da)
+
+
 ## Project Structure
 
 ### Data Flow
