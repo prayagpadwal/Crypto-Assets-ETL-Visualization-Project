@@ -1,4 +1,10 @@
 # Crypto Assets ETL & Visualization Project
+![Python](https://img.shields.io/badge/Python-3.x-blue?logo=python&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-Database-blue?logo=postgresql&logoColor=white)
+![Apache Superset](https://img.shields.io/badge/Apache_Superset-Visualization-brightgreen?logo=apache&logoColor=white)
+![Excel](https://img.shields.io/badge/Excel-Reporting-success?logo=microsoft-excel&logoColor=white)
+![ETL](https://img.shields.io/badge/ETL-Pipeline-yellowgreen?logo=apacheairflow&logoColor=white)
+![Kaggle](https://img.shields.io/badge/Kaggle-Data_Source-blue?logo=kaggle&logoColor=white)
 
 ## Overview
 This project implements an end-to-end Extract, Transform, Load (ETL) pipeline designed for crypto asset data. It leverages Python for data extraction from various sources, PostgreSQL for storage, Apache Superset for visualization, and includes robust data modeling with technical indicators.
